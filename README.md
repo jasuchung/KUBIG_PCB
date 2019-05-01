@@ -6,3 +6,5 @@ https://www.datacamp.com/courses/convolutional-neural-networks-for-image-process
 
 # MNIST Practice Link
 https://www.codingame.com/playgrounds/37409/handwritten-digit-recognition-using-scikit-learn
+
+#KUBIG ppt 탬플릿
