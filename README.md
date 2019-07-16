@@ -1,4 +1,4 @@
-# KUBIG_PCB
+# PCB default detection
 KUBIG PCB project
 
 # 파일 업로드 시 주의 사항
